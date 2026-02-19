@@ -49,10 +49,15 @@ export const projects = [
     tech: ["Python","SQLite","OOP","CLI","Pytest"],
     link: "https://github.com/HarshKataria12/HabitTracker",
   },
-];
+{  title: "Airbnb Data Mart (SQL)",
+description:
+  "Designed and implemented a normalized SQL database for an Airbnb-style booking platform, including ER modeling, 20+ entities, complex relationships, test queries, and documentation.",
+tech: ["SQL","MySQL","Database Design","ER Modeling","Data Modeling"],
+link: "https://github.com/HarshKataria12/Airbnb-DataMart"
+}];
 
 export const contact = {
   email: "harshkataria6660@gmail.com",
   github: "https://github.com/HarshKataria12",
-  linkedin: "www.linkedin.com/in/harsh-kataria-727491350",
+  linkedin: "https://linkedin.com/in/harsh-kataria-727491350",
 };
